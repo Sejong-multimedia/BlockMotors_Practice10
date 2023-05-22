@@ -7,6 +7,8 @@ brand, model, year, fuel, cc, price, km
 
 사이즈: 1100*619
 
+
+
 Hyundai
 Avante
 2017
