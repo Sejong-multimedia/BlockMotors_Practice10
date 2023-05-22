@@ -1,5 +1,8 @@
 # BlockMotors_Practice10
 *ImageURI : Encar 13종 모델 이미지 추가 (미배포) => 추후 수정예정
+brand, model, year, fuel, cc, price, km
+크기: 약50kb
+사이즈: 1100*619
 
 Hyundai
 Avante
